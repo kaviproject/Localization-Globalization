@@ -1,0 +1,13 @@
+C:\Users\kavi\Desktop\local&global\localizationNGlobalizationSample\MyResources\bin\Debug\MyResources.dll
+C:\Users\kavi\Desktop\local&global\localizationNGlobalizationSample\MyResources\bin\Debug\MyResources.pdb
+C:\Users\kavi\Desktop\local&global\localizationNGlobalizationSample\MyResources\bin\Debug\hi-IN\MyResources.resources.dll
+C:\Users\kavi\Desktop\local&global\localizationNGlobalizationSample\MyResources\bin\Debug\hi\MyResources.resources.dll
+C:\Users\kavi\Desktop\local&global\localizationNGlobalizationSample\MyResources\obj\Debug\MyResources.csprojResolveAssemblyReference.cache
+C:\Users\kavi\Desktop\local&global\localizationNGlobalizationSample\MyResources\obj\Debug\MyResources.Resources.resources
+C:\Users\kavi\Desktop\local&global\localizationNGlobalizationSample\MyResources\obj\Debug\MyResources.Resources.hi-IN.resources
+C:\Users\kavi\Desktop\local&global\localizationNGlobalizationSample\MyResources\obj\Debug\MyResources.Resources.hi.resources
+C:\Users\kavi\Desktop\local&global\localizationNGlobalizationSample\MyResources\obj\Debug\MyResources.csproj.GenerateResource.Cache
+C:\Users\kavi\Desktop\local&global\localizationNGlobalizationSample\MyResources\obj\Debug\hi-IN\MyResources.resources.dll
+C:\Users\kavi\Desktop\local&global\localizationNGlobalizationSample\MyResources\obj\Debug\hi\MyResources.resources.dll
+C:\Users\kavi\Desktop\local&global\localizationNGlobalizationSample\MyResources\obj\Debug\MyResources.dll
+C:\Users\kavi\Desktop\local&global\localizationNGlobalizationSample\MyResources\obj\Debug\MyResources.pdb
